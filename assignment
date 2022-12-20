@@ -107,4 +107,3 @@ void redWhiteBlue() {
   fadeToBlackBy(leds, NUM_LEDS, 10);
 }
 
-
